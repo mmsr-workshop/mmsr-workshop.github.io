@@ -1,3 +1,3 @@
-# Schedule
+# Programme
 
 Coming soon!
