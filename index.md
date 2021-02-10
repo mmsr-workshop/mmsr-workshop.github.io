@@ -18,3 +18,7 @@ with “meaning” found in the linguistic signal alone. In so doing, the MMSR w
 ## Venue
 
 MMSR I is being held online in conjuction with [IWCS 2021](https://iwcs2021.github.io)!  Please check out our [Call for Papers](/submissions).
+
+## Contact email
+
+[mmsr.workshop.2021@gmail.com](mailto:mmsr.workshop.2021@gmail.com)
