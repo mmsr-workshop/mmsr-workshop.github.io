@@ -14,4 +14,4 @@ We solicit papers on multimodal semantic representation, including but not limit
 
 We strongly encourage students to submit to the workshop and will consider a student session depending on the number of submissions.
 
-We will be using SoftConf to handle submissions.  Link coming soon!
+We will be using SoftConf to handle submissions.  Please submit your papers [here](https://www.softconf.com/iwcs2021/MMSR1/)!
