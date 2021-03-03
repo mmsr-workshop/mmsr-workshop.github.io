@@ -31,4 +31,5 @@
 * Nathan Schneider (Georgetown University)
 * Candy Sidner (Worcester Polytechnic Institute)
 * Jurģis Šķilters (University of Latvia)
+* David Traum (University of Southern California)
 * Alexis Wellwood (University of Southern California)
