@@ -18,4 +18,4 @@ Like IWCS 2021, MMSR does not have a pre-submission anonymity period, but we ask
 
 We strongly encourage students to submit to the workshop and will consider a student session depending on the number of submissions.
 
-We will be using SoftConf to handle submissions.  Please submit your papers [here](https://www.softconf.com/iwcs2021/MMSR1/)!
+We will be using SoftConf to handle submissions.  **We have extended the submission deadline to March 26!**  Please submit your papers [here](https://www.softconf.com/iwcs2021/MMSR1/)!
