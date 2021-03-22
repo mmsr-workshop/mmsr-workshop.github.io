@@ -31,6 +31,7 @@
 * Nathan Schneider (Georgetown University)
 * Candy Sidner (Worcester Polytechnic Institute)
 * Jurģis Šķilters (University of Latvia)
+* Benjamin Spector (Institut Jean-Nicod - Ecole Normale Supérieure, Paris)
 * David Traum (University of Southern California)
 * Alexis Wellwood (University of Southern California)
 * Bram Willemsen (KTH Royal Institute of Technology)
