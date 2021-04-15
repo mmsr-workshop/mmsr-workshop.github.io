@@ -1,6 +1,6 @@
 # Programme
 
-MMSR I will be held in conjuction with IWCS 2021, during the week June 14-18 (exact date TBD).  The workshop will combine formal paper presentations with 1-2 panels discussing [themes and key challenges in multimodal semantic representations](submissions).
+MMSR I will be held in conjuction with IWCS 2021, during the week June 14-18 (exact date TBD).  The workshop will combine formal paper presentations with sessions discussing [themes and key challenges in multimodal semantic representations](submissions).
 
 ## Invited Talks
 
