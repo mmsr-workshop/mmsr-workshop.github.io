@@ -11,3 +11,45 @@ We are delighted to have [Virginia Volterra](https://www.istc.cnr.it/en/people/v
 **Virginia Volterra and Chiara Bonsignori, ISTC, CNR, Rome**
 
 *This talk presents developmental evidence on continuity from action, to gesture to sign and word.  When children use a word, they re-construct in some form the sensory and motor information they experienced with the referent.  The basic formational components and the main depicting strategies observed in studies of adult gesture and sign research are already present in the representational gestures of two-year-old hearing children acquiring spoken language from different cultural and linguistic groups. Representational strategies for depicting information about objects and events make visible different types of embodied practices and suggest a shared cognitive basis, for signed and spoken languages. According to this approach language is seen as a form of action where the aim is always to produce meanings and to this end diverse semiotic resources are mobilized and its multimodal character is equally applicable to the study of spoken and signed language.*
+
+## Accepted Papers
+
+**EMISSOR: A platform for capturing multimodal interactions as Episodic Memories and Interpretations with Situated Scenario-based Ontological References**
+
+Selene Baez Santamaria, Thomas Baier, Taewoon Kim, Lea Krause, Jaap Kruijt and Piek Vossen
+
+**Teaching Arm and Head Gestures to a Humanoid Robot through Interactive Demonstration and Spoken Instruction**
+
+Michael Brady and Han Du
+
+**Requesting clarifications with speech and gestures**
+
+Jonathan Ginzburg and Andy Luecking
+
+**How vision affects language: comparing masked self-attention in uni-modal and multi-modal transformer**
+
+Nikolai Ilinykh and Simon Dobnik
+
+**Incremental Unit Networks for Multimodal, Fine-grained Information State Representation**
+
+Casey Kennington and David Schlangen
+
+**Annotating anaphoric phenomena in situated dialogue**
+
+Sharid Loáiciga, Simon Dobnik and David Schlangen
+
+**Seeing past words: Testing the cross-modal capabilities of pretrained V&L models**
+
+Letitia Parcalabescu, Albert Gatt, Anette Frank and Iacer Calixto
+
+**What is Multimodality?**
+
+Letitia Parcalabescu, Nils Trost and Anette Frank
+
+**Building a Video-and-Language Dataset with Human Actions for Multimodal Logical Inference**
+
+Riko Suzuki, Hitomi Yanaka, Koji Mineshima and Daisuke Bekki
+
+**Are Gestures Worth a Thousand Words? An Analysis of Interviews in the Political Domain**
+
+Daniela Trotta and Sara Tonelli
