@@ -12,6 +12,12 @@ We are delighted to have [Virginia Volterra](https://www.istc.cnr.it/en/people/v
 
 *This talk presents developmental evidence on continuity from action, to gesture to sign and word.  When children use a word, they re-construct in some form the sensory and motor information they experienced with the referent.  The basic formational components and the main depicting strategies observed in studies of adult gesture and sign research are already present in the representational gestures of two-year-old hearing children acquiring spoken language from different cultural and linguistic groups. Representational strategies for depicting information about objects and events make visible different types of embodied practices and suggest a shared cognitive basis, for signed and spoken languages. According to this approach language is seen as a form of action where the aim is always to produce meanings and to this end diverse semiotic resources are mobilized and its multimodal character is equally applicable to the study of spoken and signed language.*
 
+### Attention, Incrementality, and Meaning: On the Interplay between Language and Vision in Reference Resolution
+
+**Matthias Scheutz, Tufts University**
+
+*Humans are known to incorporate visual constraints in their incremental resolution of referential expressions.  Language semantics here can guide visual attention and, conversely, visual processing provides candidate referents for further semantic evaluation.  In this presentation, we will provide an overview of our cognitive models of incremental language understanding and interaction with visual processes, and also describe the architectural and representational challenges posed by a deep integration of language and vision in computational architectures of embodied agents.*
+
 ## Accepted Papers
 
 **EMISSOR: A platform for capturing multimodal interactions as Episodic Memories and Interpretations with Situated Scenario-based Ontological References**
