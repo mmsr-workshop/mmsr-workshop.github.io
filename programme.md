@@ -44,7 +44,7 @@ Casey Kennington and David Schlangen
 
 Sharid Loáiciga, Simon Dobnik and David Schlangen
 
-**Seeing past words: Testing the cross-modal capabilities of pretrained V&L models**
+**Seeing past words: Testing the cross-modal capabilities of pretrained V&L models on counting tasks**
 
 Letitia Parcalabescu, Albert Gatt, Anette Frank and Iacer Calixto
 
