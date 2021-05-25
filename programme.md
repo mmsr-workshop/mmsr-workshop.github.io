@@ -2,6 +2,8 @@
 
 MMSR I will be held in conjuction with IWCS 2021, on **June 16 ([16:00-20:00 Central European Time](https://www.timeanddate.com/worldclock/converter.html?iso=20210616T140000&p1=1292&p2=136&p3=179&p4=75&p5=248))**.  The workshop will combine formal paper presentations with sessions discussing [themes and key challenges in multimodal semantic representations](submissions).
 
+**The [workshop program](https://mmsr-workshop.github.io/program-preview.pdf) is now available!**
+
 ## Invited Talks
 
 We are delighted to have [Virginia Volterra](https://www.istc.cnr.it/en/people/virginia-volterra) of CNR-Institute of Cognitive Sciences and Technologies and [Matthias Scheutz](https://hrilab.tufts.edu/people/matthias.php) of the Tufts University HRI Lab as invited speakers!
