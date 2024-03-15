@@ -1,4 +1,4 @@
-# Beyond Language: Multimodal Semantic Representations
+# Multimodal Semantic Representations
 
 Welcome to **MMSR II**, the second workshop on Multimodal Semantic Representations!
 
