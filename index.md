@@ -19,7 +19,7 @@ This workshop intends to bring together researchers who work to capture elements
 
 ## Venue
 
-MMSR II will be held on October 19 or 20, 2024, in Santiago de Compostela, Spain in conjuction with [ECAI 2024](https://www.ecai2024.eu/)!  Please check out our [Call for Papers](/submissions).
+Our goal is to hold MMSR II during the calednar year of 2025, in a venue still to be determined.
 
 <!--- ## Contact email
 
