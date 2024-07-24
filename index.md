@@ -1,5 +1,7 @@
 # Beyond Language: Multimodal Semantic Representations
 
+**Due to unforseen circumstances, the MMSR II will not take place at ECAI 2024 this year.**
+
 Welcome to **MMSR II**, the second workshop on Multimodal Semantic Representations!
 
 The demand for more sophisticated natural human-computer and human-robot interactions is rapidly increasing as users become more accustomed to conversation-like interactions with AI and NLP systems. Such interactions require not only the robust recognition and generation of expressions through multiple modalities (language, gesture, vision, action, etc.), but also the encoding of situated meaning.
