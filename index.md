@@ -19,7 +19,7 @@ This workshop intends to bring together researchers who work to capture elements
 
 ## Venue
 
-Our goal is to hold MMSR II during the calednar year of 2025, in a venue still to be determined.
+Our goal is to hold MMSR II during the calendar year of 2025, in a venue still to be determined.
 
 <!--- ## Contact email
 
