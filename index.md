@@ -1,4 +1,4 @@
-# Beyond Language: Multimodal Semantic Representations
+# Multimodal Semantic Representations
 
 **Due to unforseen circumstances, the MMSR II will not take place at ECAI 2024 this year.**
 
