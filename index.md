@@ -1,7 +1,5 @@
 # Beyond Language: Multimodal Semantic Representations
 
-**Due to unforseen circumstances, the MMSR II will not take place at ECAI 2024 this year.**
-
 Welcome to **MMSR II**, the second workshop on Multimodal Semantic Representations!
 
 The demand for more sophisticated natural human-computer and human-robot interactions is rapidly increasing as users become more accustomed to conversation-like interactions with AI and NLP systems. Such interactions require not only the robust recognition and generation of expressions through multiple modalities (language, gesture, vision, action, etc.), but also the encoding of situated meaning.
@@ -21,7 +19,7 @@ This workshop intends to bring together researchers who work to capture elements
 
 ## Venue
 
-Our goal is to hold MMSR II during the calendar year of 2025, in a venue still to be determined.
+MMSR II will be held on September 24, 2025, in Düsseldorf, Germany in conjuction with [IWCS 2025](https://iwcs2025.github.io/)!
 
 <!--- ## Contact email
 
