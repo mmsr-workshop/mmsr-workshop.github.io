@@ -11,12 +11,10 @@ We solicit papers on multimodal semantic representation, including but not limit
 * Methods for probing knowledge of multimodal (language and vision) models; 
 * Virtual and situated agents that embody multimodal representations of common ground.
 
-Two types of submission are solicited: long papers (8 pages, excluding references and acknowledgments) and short papers (4 pages, excluding references and acknowledgments).  Authors will receive up to an extra page to address reviewer comments for the camera-ready version.  Submissions should use the [ECAI 2024 stylesheet](https://ecai2024.eu/download/ecai-template.zip) and should be **fully anonymized** for double-blind reviewing.
+Two types of submission are solicited: long papers (8 pages, excluding references and acknowledgments) and short papers (4 pages, excluding references and acknowledgments). Accepted papers will be published in the ACL anthology. Authors will receive up to an extra page to address reviewer comments for the camera-ready version. Submissions should use the [IWCS 2025 stylesheet](https://iwcs2025.github.io/call_for_papers) and should be **fully anonymized** for double-blind reviewing.
 
-<!--- Accepted papers will be published in the ACL anthology. --->
-
-Like ECAI 2024, MMSR does not have a pre-submission anonymity period, but we ask authors not to publicly advertise any preprints of submitted work during (or right before) the review period.
+Like IWCS 2025, MMSR does not have a pre-submission anonymity period, but we ask authors not to publicly advertise any preprints of submitted work during (or right before) the review period.
 
 We strongly encourage students to submit to the workshop and will consider a student session depending on the number of submissions.
 
-We will be using Chairing Tool to handle submissions.  **We have extended the submission deadline to May 29!**  Please submit your papers [here](https://chairingtool.com/conferences/2MMSR24/MainTrack)!
+We will be using OpenReview to handle submissions. Please submit your papers [here](https://openreview.net/group?id=IWCS/2025/Workshop/MMSR)!
