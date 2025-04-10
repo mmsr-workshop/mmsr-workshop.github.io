@@ -2,9 +2,9 @@
 
 Tentative schedule, subject to change:
 
-|                                         |                                         |
-|-----------------------------------------|-----------------------------------------|
-| ~~May 15~~ May 29                       | Submissions due (**deadline extended!**)|
-| July 1                                  | Notification of acceptance decisions    |
-| August 2                                | Camera-ready papers due                 |
-| October 19 or 20 (pending finalization) | MMSR II Workshop                        |
+|              |                                      |
+|--------------|--------------------------------------|
+| June 27      | Submissions due                      |
+| August 1     | Notification of acceptance decisions |
+| August 22    | Camera-ready papers due              |
+| September 24 | MMSR II Workshop                     |
